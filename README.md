@@ -8,5 +8,5 @@
 + **erode_dilate**: Erode or dilate a picture. Double-click to change to another mode
 + **featuresMatch**: Detect and match the same features of two related pictures
 + **filter**: Show a few type of filter on picture
-+ **outline**: Detect the outline of a picture
-+ **stiching**: Stich two or more pictures.`./stich` to get help info
++ **outline**: Detect and draw the outline of a picture
++ **stiching**: Stich two or more pictures.Input `./stiching` to get help info
